@@ -8,7 +8,6 @@
 - [Front-End Development](#front-end-development)
 - [Development Environment](#development-environment)
 - [Conclusion](#conclusion)
-- 
 
 ![Screenshot 2024-08-08 022705](https://github.com/user-attachments/assets/13bf28f1-3177-4343-8c6b-b3376618b317)
 
