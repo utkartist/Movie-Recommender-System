@@ -10,7 +10,7 @@
 - [Conclusion](#conclusion)
 - 
 
-![Screenshot 2024-08-08 023248](https://github.com/user-attachments/assets/0cfa52d9-3b92-409e-8393-ebbe6059f043)
+![Screenshot 2024-08-08 022705](https://github.com/user-attachments/assets/13bf28f1-3177-4343-8c6b-b3376618b317)
 
 
 ## <span style="color:blue">Introduction</span>
@@ -38,5 +38,7 @@ The development and deployment of this project have been conducted using **PyCha
 This project represents a significant step forward in the field of personalized content recommendations. By combining the richness of the TMDB dataset with the precision of cosine similarity and the user-friendly interface provided by Streamlit, our movie recommender system offers a highly personalized and engaging experience for users. The use of PyCharm as our development environment further underscores our commitment to delivering a high-quality and efficient solution.
 
 
-![Screenshot 2024-08-08 022705](https://github.com/user-attachments/assets/13bf28f1-3177-4343-8c6b-b3376618b317)
+
+![Screenshot 2024-08-08 023248](https://github.com/user-attachments/assets/0cfa52d9-3b92-409e-8393-ebbe6059f043)
+
 
